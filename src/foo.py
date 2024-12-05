@@ -9,4 +9,3 @@ class ClassB:
 
 change_1 = "we are going to rever this"
 change_2 = "and this"
-change_3 = "and also this!"
