@@ -6,5 +6,3 @@ class ClassA:
 
 class ClassB:
     "another fake class"
-
-change_1 = "we are going to rever this"
