@@ -6,3 +6,7 @@ class ClassA:
 
 class ClassB:
     "another fake class"
+
+
+class ClassD:
+    "another fake class"
